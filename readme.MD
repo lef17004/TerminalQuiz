@@ -1,8 +1,10 @@
 # Quiz in Terminal
 
 ## How to Compile
+If you don't have Kotlin installed, go to [this site](https://kotlinlang.org) and install it first. 
 
-First, navigate to the directory where the files are stores.
+
+Navigate to the directory where the files are stores.
 To compile the program type : `kotlinc main.kt -include-runtime -d main.jar`
 To execute the program: `java -jar main.jar`  
 
